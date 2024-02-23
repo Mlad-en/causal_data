@@ -16,6 +16,8 @@ seaborn = "^0.13.2"
 notebook = "^7.1.0"
 pingouin = "^0.5.4"
 pyarrow = "^15.0.0"
+statsmodels = "^0.14.1"
+yellowbrick = "^1.5"
 
 
 [build-system]
