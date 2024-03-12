@@ -18,6 +18,11 @@ pingouin = "^0.5.4"
 pyarrow = "^15.0.0"
 statsmodels = "^0.14.1"
 yellowbrick = "^1.5"
+cdt = "^0.6.0"
+ges = "^1.1.0"
+torchvision = "^0.17.1"
+hyppo = "^0.4.0"
+conditional-independence = "^0.1a6"
 
 
 [build-system]
