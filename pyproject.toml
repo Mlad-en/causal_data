@@ -23,6 +23,7 @@ ges = "^1.1.0"
 torchvision = "^0.17.1"
 hyppo = "^0.4.0"
 conditional-independence = "^0.1a6"
+plotly = "^5.19.0"
 
 
 [build-system]
